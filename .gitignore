@@ -9,6 +9,7 @@
 /plugins/
 /hooks/
 
+config.xml
 
 # Other cca artefacts.
 /.cordova/

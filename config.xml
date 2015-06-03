@@ -3,7 +3,7 @@
 
     <description>A Sample Chrome App</description>
 
-    <author>Author Name &lt;a@b.com></author>
+    <author>Stephen Fluin &lt;stephen.fluin@gmail.com&gt;</author>
 
     <preference name="KeyboardShrinksView" value="true"/>
     <preference name="StatusBarOverlaysWebView" value="false"/>
